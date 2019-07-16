@@ -1,0 +1,2 @@
+VCD info: dumpfile test1.vcd opened for output.
+a=    5, b=    5, product=        25

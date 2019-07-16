@@ -1,0 +1,2 @@
+VCD info: dumpfile test1.vcd opened for output.
+op=0, a=    1, b=    3, s= 1026
